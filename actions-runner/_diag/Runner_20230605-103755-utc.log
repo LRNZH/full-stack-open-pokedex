@@ -1,0 +1,205 @@
+[2023-06-05 10:37:55Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 10:37:55Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials'
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 10:37:55Z INFO HostContext] Well known config file 'Runner': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.runner'
+[2023-06-05 10:37:55Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-06-05 10:37:55Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22621.
+[2023-06-05 10:37:55Z INFO Listener] Version: 2.304.0
+[2023-06-05 10:37:55Z INFO Listener] Commit: 9ef4121b5b31ee5c03b7770288213d741081f747
+[2023-06-05 10:37:55Z INFO Listener] Culture: en-US
+[2023-06-05 10:37:55Z INFO Listener] UI Culture: en-US
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 10:37:55Z INFO Listener] Validating directory permissions for: 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 10:37:55Z INFO CommandLineParser] Parse
+[2023-06-05 10:37:55Z INFO CommandLineParser] Parsing 1 args
+[2023-06-05 10:37:55Z INFO CommandLineParser] parsing argument
+[2023-06-05 10:37:55Z INFO CommandLineParser] HasArgs: False
+[2023-06-05 10:37:55Z INFO CommandLineParser] Adding Command: run
+[2023-06-05 10:37:55Z INFO Listener] Arguments parsed
+[2023-06-05 10:37:55Z INFO Runner] ExecuteCommand
+[2023-06-05 10:37:55Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin\Runner.Listener.dll
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:37:55Z INFO ConfigurationStore] binPath: C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 10:37:55Z INFO ConfigurationStore] RootFolder: C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 10:37:55Z INFO HostContext] Well known config file 'Runner': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.runner'
+[2023-06-05 10:37:55Z INFO ConfigurationStore] ConfigFilePath: C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.runner
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 10:37:55Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials'
+[2023-06-05 10:37:55Z INFO ConfigurationStore] CredFilePath: C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 10:37:55Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_migrated'
+[2023-06-05 10:37:55Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_migrated
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 10:37:55Z INFO HostContext] Well known config file 'Service': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.service'
+[2023-06-05 10:37:55Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.service
+[2023-06-05 10:37:55Z INFO CommandSettings] Flag 'help': 'False'
+[2023-06-05 10:37:55Z INFO CommandSettings] Flag 'version': 'False'
+[2023-06-05 10:37:55Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-06-05 10:37:55Z INFO CommandSettings] Flag 'check': 'False'
+[2023-06-05 10:37:55Z INFO CommandSettings] Command 'configure': 'False'
+[2023-06-05 10:37:55Z INFO CommandSettings] Command 'remove': 'False'
+[2023-06-05 10:37:55Z INFO CommandSettings] Command 'warmup': 'False'
+[2023-06-05 10:37:55Z INFO ConfigurationManager] LoadSettings
+[2023-06-05 10:37:55Z INFO ConfigurationStore] IsConfigured()
+[2023-06-05 10:37:55Z INFO ConfigurationStore] IsConfigured: True
+[2023-06-05 10:37:55Z INFO ConfigurationManager] Is configured: True
+[2023-06-05 10:37:55Z INFO ConfigurationStore] Read setting file: 310 chars
+[2023-06-05 10:37:55Z INFO ConfigurationManager] Settings Loaded
+[2023-06-05 10:37:55Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-06-05 10:37:55Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-06-05 10:37:55Z INFO CommandSettings] Command 'run': 'True'
+[2023-06-05 10:37:55Z INFO ConfigurationStore] IsConfigured()
+[2023-06-05 10:37:55Z INFO ConfigurationStore] IsConfigured: True
+[2023-06-05 10:37:55Z INFO ConfigurationManager] Is configured: True
+[2023-06-05 10:37:55Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2023-06-05 10:37:55Z INFO Runner] Set runner startup type - Manual
+[2023-06-05 10:37:55Z INFO CommandSettings] Flag 'once': 'False'
+[2023-06-05 10:37:55Z INFO CommandSettings] Flag 'once': 'False'
+[2023-06-05 10:37:55Z INFO Runner] RunAsync
+[2023-06-05 10:37:55Z INFO ConfigurationManager] LoadSettings
+[2023-06-05 10:37:55Z INFO ConfigurationStore] IsConfigured()
+[2023-06-05 10:37:55Z INFO ConfigurationStore] IsConfigured: True
+[2023-06-05 10:37:55Z INFO ConfigurationManager] Is configured: True
+[2023-06-05 10:37:55Z INFO ConfigurationManager] Settings Loaded
+[2023-06-05 10:37:55Z INFO MessageListener] {
+  "AgentId": 22,
+  "AgentName": "DESKTOP-D10U003",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/d16QqtJqhbCCNwBDGMColJhXx838o1DNb0UJF6s78p2zROHFuM",
+  "GitHubUrl": "https://github.com/LRNZH/full-stack-open-pokedex",
+  "WorkFolder": "_work"
+}
+[2023-06-05 10:37:55Z INFO MessageListener] Loading Credentials
+[2023-06-05 10:37:55Z INFO ConfigurationStore] HasCredentials()
+[2023-06-05 10:37:55Z INFO ConfigurationStore] stored True
+[2023-06-05 10:37:55Z INFO CredentialManager] GetCredentialProvider
+[2023-06-05 10:37:55Z INFO CredentialManager] Creating type OAuth
+[2023-06-05 10:37:55Z INFO CredentialManager] Creating credential type: OAuth
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:37:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 10:37:55Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_rsaparams'
+[2023-06-05 10:37:55Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_rsaparams
+[2023-06-05 10:37:55Z INFO MessageListener] Attempt to create session.
+[2023-06-05 10:37:55Z INFO MessageListener] Connecting to the Runner Server...
+[2023-06-05 10:37:55Z INFO RunnerServer] EstablishVssConnection
+[2023-06-05 10:37:55Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-06-05 10:37:56Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-06-05 10:37:56Z INFO RunnerServer] EstablishVssConnection
+[2023-06-05 10:37:56Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-06-05 10:37:56Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-06-05 10:37:56Z INFO RunnerServer] EstablishVssConnection
+[2023-06-05 10:37:56Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-06-05 10:37:56Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-06-05 10:37:56Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-06-05 10:37:56Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-06-05 10:37:57Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-06-05 10:37:57Z INFO MessageListener] VssConnection created
+[2023-06-05 10:37:57Z INFO Terminal] WRITE LINE: 
+[2023-06-05 10:37:57Z INFO Terminal] WRITE LINE: 
+[2023-06-05 10:37:57Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_rsaparams
+[2023-06-05 10:37:57Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_rsaparams
+[2023-06-05 10:37:57Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-06-05 10:37:58Z INFO MessageListener] Session created.
+[2023-06-05 10:37:58Z INFO Terminal] WRITE LINE: Current runner version: '2.304.0'
+[2023-06-05 10:37:58Z INFO Terminal] WRITE LINE: 2023-06-05 10:37:58Z: Listening for Jobs
+[2023-06-05 10:37:58Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2023-06-05 10:38:44Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_rsaparams
+[2023-06-05 10:38:44Z INFO MessageListener] Message '5' received from session 'd89bf09b-cdf1-4f38-a793-ef98435be204'.
+[2023-06-05 10:38:44Z INFO Runner] Received job message of length 43508 from service, with hash '0fec29274cb3c05ee969bff7a054a7c956ffb6a956c2971b7e206bcce333e818'
+[2023-06-05 10:38:44Z INFO JobDispatcher] Job request 72 for plan 95a5b229-c781-4905-9152-78c3a024fe2a job 2514cf62-f000-5c8b-f424-1fac13edf6f3 received.
+[2023-06-05 10:38:44Z INFO JobDispatcher] Pull OrchestrationId 95a5b229-c781-4905-9152-78c3a024fe2a.simple_deployment_pipeline.__default from JWT claims
+[2023-06-05 10:38:44Z INFO Terminal] WRITE LINE: 2023-06-05 10:38:44Z: Running job: simple_deployment_pipeline
+[2023-06-05 10:38:44Z INFO JobDispatcher] Start renew job request 72 for job 2514cf62-f000-5c8b-f424-1fac13edf6f3.
+[2023-06-05 10:38:44Z INFO JobDispatcher] Successfully renew job request 72, job is valid till 6/5/2023 10:48:43 AM
+[2023-06-05 10:38:44Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:38:44Z INFO ProcessInvokerWrapper] Starting process:
+[2023-06-05 10:38:44Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin\Runner.Worker.exe'
+[2023-06-05 10:38:44Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 1956 2256'
+[2023-06-05 10:38:44Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:38:44Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-06-05 10:38:44Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-06-05 10:38:44Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-06-05 10:38:44Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-06-05 10:38:44Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-06-05 10:38:44Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-06-05 10:38:44Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-06-05 10:38:44Z INFO ProcessInvokerWrapper] Process started with process id 32140, waiting for process exit.
+[2023-06-05 10:38:44Z INFO JobDispatcher] Send job request message to worker for job 2514cf62-f000-5c8b-f424-1fac13edf6f3.
+[2023-06-05 10:38:44Z INFO ProcessChannel] Sending message of length 43508, with hash '0fec29274cb3c05ee969bff7a054a7c956ffb6a956c2971b7e206bcce333e818'
+[2023-06-05 10:38:44Z INFO JobNotification] Entering JobStarted Notification
+[2023-06-05 10:38:44Z INFO JobNotification] Entering StartMonitor
+[2023-06-05 10:39:44Z INFO JobDispatcher] Successfully renew job request 72, job is valid till 6/5/2023 10:49:43 AM
+[2023-06-05 10:40:45Z INFO JobDispatcher] Successfully renew job request 72, job is valid till 6/5/2023 10:50:43 AM
+[2023-06-05 10:41:45Z INFO JobDispatcher] Successfully renew job request 72, job is valid till 6/5/2023 10:51:44 AM
+[2023-06-05 10:42:45Z INFO JobDispatcher] Successfully renew job request 72, job is valid till 6/5/2023 10:52:44 AM
+[2023-06-05 10:43:06Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-05 10:43:06Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-05 10:43:06Z INFO ProcessInvokerWrapper] Finished process 32140 with exit code 102, and elapsed time 00:04:21.6870794.
+[2023-06-05 10:43:06Z INFO JobDispatcher] Worker finished for job 2514cf62-f000-5c8b-f424-1fac13edf6f3. Code: 102
+[2023-06-05 10:43:06Z INFO JobDispatcher] finish job request for job 2514cf62-f000-5c8b-f424-1fac13edf6f3 with result: Failed
+[2023-06-05 10:43:06Z INFO Terminal] WRITE LINE: 2023-06-05 10:43:06Z: Job simple_deployment_pipeline completed with result: Failed
+[2023-06-05 10:43:06Z INFO JobDispatcher] Stop renew job request for job 2514cf62-f000-5c8b-f424-1fac13edf6f3.
+[2023-06-05 10:43:06Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 72.
+[2023-06-05 10:43:06Z INFO JobNotification] Entering JobCompleted Notification
+[2023-06-05 10:43:06Z INFO JobNotification] Entering EndMonitor
+[2023-06-05 10:45:19Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_rsaparams
+[2023-06-05 10:45:19Z INFO MessageListener] Message '6' received from session 'd89bf09b-cdf1-4f38-a793-ef98435be204'.
+[2023-06-05 10:45:19Z INFO Runner] Received job message of length 43507 from service, with hash '3d17d8389b2ae554e1c2a9807da39b04faadb700785fc185cef1e4544a8d0f58'
+[2023-06-05 10:45:19Z INFO JobDispatcher] Job request 73 for plan 225a3295-e7ff-428d-b1cc-a752b5f7330d job 2514cf62-f000-5c8b-f424-1fac13edf6f3 received.
+[2023-06-05 10:45:19Z INFO JobDispatcher] Pull OrchestrationId 225a3295-e7ff-428d-b1cc-a752b5f7330d.simple_deployment_pipeline.__default from JWT claims
+[2023-06-05 10:45:19Z INFO JobDispatcher] Job request 2514cf62-f000-5c8b-f424-1fac13edf6f3 processed succeed.
+[2023-06-05 10:45:19Z INFO Terminal] WRITE LINE: 2023-06-05 10:45:19Z: Running job: simple_deployment_pipeline
+[2023-06-05 10:45:19Z INFO JobDispatcher] Start renew job request 73 for job 2514cf62-f000-5c8b-f424-1fac13edf6f3.
+[2023-06-05 10:45:19Z INFO JobDispatcher] Successfully renew job request 73, job is valid till 6/5/2023 10:55:18 AM
+[2023-06-05 10:45:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:45:19Z INFO ProcessInvokerWrapper] Starting process:
+[2023-06-05 10:45:19Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin\Runner.Worker.exe'
+[2023-06-05 10:45:19Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2504 2512'
+[2023-06-05 10:45:19Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:45:19Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-06-05 10:45:19Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-06-05 10:45:19Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-06-05 10:45:19Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-06-05 10:45:19Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-06-05 10:45:19Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-06-05 10:45:19Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-06-05 10:45:19Z INFO ProcessInvokerWrapper] Process started with process id 11240, waiting for process exit.
+[2023-06-05 10:45:19Z INFO JobDispatcher] Send job request message to worker for job 2514cf62-f000-5c8b-f424-1fac13edf6f3.
+[2023-06-05 10:45:19Z INFO ProcessChannel] Sending message of length 43507, with hash '3d17d8389b2ae554e1c2a9807da39b04faadb700785fc185cef1e4544a8d0f58'
+[2023-06-05 10:45:20Z INFO JobNotification] Entering JobStarted Notification
+[2023-06-05 10:45:20Z INFO JobNotification] Entering StartMonitor
+[2023-06-05 10:46:20Z INFO JobDispatcher] Successfully renew job request 73, job is valid till 6/5/2023 10:56:19 AM
+[2023-06-05 10:47:20Z INFO JobDispatcher] Successfully renew job request 73, job is valid till 6/5/2023 10:57:19 AM
+[2023-06-05 10:48:20Z INFO JobDispatcher] Successfully renew job request 73, job is valid till 6/5/2023 10:58:19 AM
+[2023-06-05 10:49:13Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-05 10:49:13Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-05 10:49:13Z INFO ProcessInvokerWrapper] Finished process 11240 with exit code 102, and elapsed time 00:03:53.7726365.
+[2023-06-05 10:49:13Z INFO JobDispatcher] Worker finished for job 2514cf62-f000-5c8b-f424-1fac13edf6f3. Code: 102
+[2023-06-05 10:49:13Z INFO JobDispatcher] finish job request for job 2514cf62-f000-5c8b-f424-1fac13edf6f3 with result: Failed
+[2023-06-05 10:49:13Z INFO Terminal] WRITE LINE: 2023-06-05 10:49:13Z: Job simple_deployment_pipeline completed with result: Failed
+[2023-06-05 10:49:13Z INFO JobDispatcher] Stop renew job request for job 2514cf62-f000-5c8b-f424-1fac13edf6f3.
+[2023-06-05 10:49:13Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 73.
+[2023-06-05 10:49:13Z INFO JobNotification] Entering JobCompleted Notification
+[2023-06-05 10:49:13Z INFO JobNotification] Entering EndMonitor
+[2023-06-05 11:15:31Z INFO MessageListener] No message retrieved from session 'd89bf09b-cdf1-4f38-a793-ef98435be204' within last 30 minutes.
+[2023-06-05 11:33:08Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_rsaparams
+[2023-06-05 11:33:09Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-06-05 11:35:27Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-06-05 11:35:27Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/d16QqtJqhbCCNwBDGMColJhXx838o1DNb0UJF6s78p2zROHFuM/_apis/distributedtask/pools/1/messages?sessionId=d89bf09b-cdf1-4f38-a793-ef98435be204&lastMessageId=6&status=Online&runnerVersion=2.304.0 has been cancelled.
+[2023-06-05 11:35:27Z INFO MessageListener] Get next message has been cancelled.
+[2023-06-05 11:35:27Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2023-06-05 11:35:27Z INFO JobDispatcher] Ensure WorkerDispather for job 2514cf62-f000-5c8b-f424-1fac13edf6f3 run to finish, cancel any running job.
+[2023-06-05 11:35:27Z INFO JobDispatcher] Job request 2514cf62-f000-5c8b-f424-1fac13edf6f3 processed succeed.
+[2023-06-05 11:35:28Z INFO Listener] Runner execution been cancelled.

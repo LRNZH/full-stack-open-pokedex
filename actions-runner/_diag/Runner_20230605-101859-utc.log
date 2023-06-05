@@ -154,3 +154,13 @@
 [2023-06-05 10:23:44Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 71.
 [2023-06-05 10:23:44Z INFO JobNotification] Entering JobCompleted Notification
 [2023-06-05 10:23:44Z INFO JobNotification] Entering EndMonitor
+[2023-06-05 10:37:49Z INFO Terminal] WRITE LINE: Exiting...
+[2023-06-05 10:37:49Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-06-05 10:37:49Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-06-05 10:37:49Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-06-05 10:37:49Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/d16QqtJqhbCCNwBDGMColJhXx838o1DNb0UJF6s78p2zROHFuM/_apis/distributedtask/pools/1/messages?sessionId=fda71346-2c9b-471b-a5f3-4f0133fd9b6b&lastMessageId=4&status=Online&runnerVersion=2.304.0 has been cancelled.
+[2023-06-05 10:37:49Z INFO MessageListener] Get next message has been cancelled.
+[2023-06-05 10:37:49Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2023-06-05 10:37:49Z INFO JobDispatcher] Ensure WorkerDispather for job 2514cf62-f000-5c8b-f424-1fac13edf6f3 run to finish, cancel any running job.
+[2023-06-05 10:37:49Z INFO JobDispatcher] Job request 2514cf62-f000-5c8b-f424-1fac13edf6f3 processed succeed.
+[2023-06-05 10:37:50Z INFO Listener] Runner execution been cancelled.
