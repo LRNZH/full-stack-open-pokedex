@@ -115,3 +115,120 @@
 [2023-06-05 09:55:36Z INFO Terminal] WRITE LINE: Current runner version: '2.304.0'
 [2023-06-05 09:55:36Z INFO Terminal] WRITE LINE: 2023-06-05 09:55:36Z: Listening for Jobs
 [2023-06-05 09:55:36Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2023-06-05 10:00:45Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_rsaparams
+[2023-06-05 10:00:45Z INFO MessageListener] Message '1' received from session '3cdd34c3-a5e6-4053-9daf-3cb8f4670b5f'.
+[2023-06-05 10:00:45Z INFO Runner] Received job message of length 43498 from service, with hash 'e9268379a43605a5ba3b8ae5b02f18c6edc0534fd51481defbdbac0214a76d00'
+[2023-06-05 10:00:45Z INFO JobDispatcher] Job request 68 for plan 49ea1f50-5e59-4aa4-9853-b1ae65cf4e88 job 2514cf62-f000-5c8b-f424-1fac13edf6f3 received.
+[2023-06-05 10:00:45Z INFO JobDispatcher] Pull OrchestrationId 49ea1f50-5e59-4aa4-9853-b1ae65cf4e88.simple_deployment_pipeline.__default from JWT claims
+[2023-06-05 10:00:45Z INFO Terminal] WRITE LINE: 2023-06-05 10:00:45Z: Running job: simple_deployment_pipeline
+[2023-06-05 10:00:45Z INFO JobDispatcher] Start renew job request 68 for job 2514cf62-f000-5c8b-f424-1fac13edf6f3.
+[2023-06-05 10:00:46Z INFO JobDispatcher] Successfully renew job request 68, job is valid till 6/5/2023 10:10:45 AM
+[2023-06-05 10:00:46Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:00:46Z INFO ProcessInvokerWrapper] Starting process:
+[2023-06-05 10:00:46Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin\Runner.Worker.exe'
+[2023-06-05 10:00:46Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2356 2368'
+[2023-06-05 10:00:46Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:00:46Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-06-05 10:00:46Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-06-05 10:00:46Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-06-05 10:00:46Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-06-05 10:00:46Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-06-05 10:00:46Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-06-05 10:00:46Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-06-05 10:00:46Z INFO ProcessInvokerWrapper] Process started with process id 12416, waiting for process exit.
+[2023-06-05 10:00:46Z INFO JobDispatcher] Send job request message to worker for job 2514cf62-f000-5c8b-f424-1fac13edf6f3.
+[2023-06-05 10:00:46Z INFO ProcessChannel] Sending message of length 43498, with hash 'e9268379a43605a5ba3b8ae5b02f18c6edc0534fd51481defbdbac0214a76d00'
+[2023-06-05 10:00:46Z INFO JobNotification] Entering JobStarted Notification
+[2023-06-05 10:00:46Z INFO JobNotification] Entering StartMonitor
+[2023-06-05 10:01:46Z INFO JobDispatcher] Successfully renew job request 68, job is valid till 6/5/2023 10:11:46 AM
+[2023-06-05 10:02:46Z INFO JobDispatcher] Successfully renew job request 68, job is valid till 6/5/2023 10:12:46 AM
+[2023-06-05 10:03:47Z INFO JobDispatcher] Successfully renew job request 68, job is valid till 6/5/2023 10:13:46 AM
+[2023-06-05 10:03:58Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-05 10:03:58Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-05 10:03:58Z INFO ProcessInvokerWrapper] Finished process 12416 with exit code 102, and elapsed time 00:03:12.5208987.
+[2023-06-05 10:03:58Z INFO JobDispatcher] Worker finished for job 2514cf62-f000-5c8b-f424-1fac13edf6f3. Code: 102
+[2023-06-05 10:03:58Z INFO JobDispatcher] finish job request for job 2514cf62-f000-5c8b-f424-1fac13edf6f3 with result: Failed
+[2023-06-05 10:03:58Z INFO Terminal] WRITE LINE: 2023-06-05 10:03:58Z: Job simple_deployment_pipeline completed with result: Failed
+[2023-06-05 10:03:58Z INFO JobDispatcher] Stop renew job request for job 2514cf62-f000-5c8b-f424-1fac13edf6f3.
+[2023-06-05 10:03:58Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 68.
+[2023-06-05 10:03:58Z INFO JobNotification] Entering JobCompleted Notification
+[2023-06-05 10:03:58Z INFO JobNotification] Entering EndMonitor
+[2023-06-05 10:04:20Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_rsaparams
+[2023-06-05 10:04:20Z INFO MessageListener] Message '2' received from session '3cdd34c3-a5e6-4053-9daf-3cb8f4670b5f'.
+[2023-06-05 10:04:20Z INFO Runner] Received job message of length 43497 from service, with hash '9165cad89ea647242704cbaf1d03d76f1f013c840ec2e2849377ad82b62edb5c'
+[2023-06-05 10:04:20Z INFO JobDispatcher] Job request 69 for plan 95cbe84a-6373-445b-9343-027cee3461f2 job 2514cf62-f000-5c8b-f424-1fac13edf6f3 received.
+[2023-06-05 10:04:20Z INFO JobDispatcher] Pull OrchestrationId 95cbe84a-6373-445b-9343-027cee3461f2.simple_deployment_pipeline.__default from JWT claims
+[2023-06-05 10:04:20Z INFO JobDispatcher] Job request 2514cf62-f000-5c8b-f424-1fac13edf6f3 processed succeed.
+[2023-06-05 10:04:20Z INFO Terminal] WRITE LINE: 2023-06-05 10:04:20Z: Running job: simple_deployment_pipeline
+[2023-06-05 10:04:20Z INFO JobDispatcher] Start renew job request 69 for job 2514cf62-f000-5c8b-f424-1fac13edf6f3.
+[2023-06-05 10:04:20Z INFO JobDispatcher] Successfully renew job request 69, job is valid till 6/5/2023 10:14:20 AM
+[2023-06-05 10:04:20Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:04:20Z INFO ProcessInvokerWrapper] Starting process:
+[2023-06-05 10:04:20Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin\Runner.Worker.exe'
+[2023-06-05 10:04:20Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2244 2388'
+[2023-06-05 10:04:20Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:04:20Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-06-05 10:04:20Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-06-05 10:04:20Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-06-05 10:04:20Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-06-05 10:04:20Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-06-05 10:04:20Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-06-05 10:04:20Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-06-05 10:04:20Z INFO ProcessInvokerWrapper] Process started with process id 4080, waiting for process exit.
+[2023-06-05 10:04:20Z INFO JobDispatcher] Send job request message to worker for job 2514cf62-f000-5c8b-f424-1fac13edf6f3.
+[2023-06-05 10:04:20Z INFO ProcessChannel] Sending message of length 43497, with hash '9165cad89ea647242704cbaf1d03d76f1f013c840ec2e2849377ad82b62edb5c'
+[2023-06-05 10:04:20Z INFO JobNotification] Entering JobStarted Notification
+[2023-06-05 10:04:20Z INFO JobNotification] Entering StartMonitor
+[2023-06-05 10:05:13Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-05 10:05:13Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-05 10:05:13Z INFO ProcessInvokerWrapper] Finished process 4080 with exit code 102, and elapsed time 00:00:52.7794556.
+[2023-06-05 10:05:13Z INFO JobDispatcher] Worker finished for job 2514cf62-f000-5c8b-f424-1fac13edf6f3. Code: 102
+[2023-06-05 10:05:13Z INFO JobDispatcher] finish job request for job 2514cf62-f000-5c8b-f424-1fac13edf6f3 with result: Failed
+[2023-06-05 10:05:13Z INFO Terminal] WRITE LINE: 2023-06-05 10:05:13Z: Job simple_deployment_pipeline completed with result: Failed
+[2023-06-05 10:05:13Z INFO JobDispatcher] Stop renew job request for job 2514cf62-f000-5c8b-f424-1fac13edf6f3.
+[2023-06-05 10:05:13Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 69.
+[2023-06-05 10:05:13Z INFO JobNotification] Entering JobCompleted Notification
+[2023-06-05 10:05:13Z INFO JobNotification] Entering EndMonitor
+[2023-06-05 10:13:38Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_rsaparams
+[2023-06-05 10:13:38Z INFO MessageListener] Message '3' received from session '3cdd34c3-a5e6-4053-9daf-3cb8f4670b5f'.
+[2023-06-05 10:13:38Z INFO Runner] Received job message of length 43497 from service, with hash 'e1fb7e3d877b51f0b239c5c5886af3ec55e1fe77867c57140072c387f53f26e1'
+[2023-06-05 10:13:38Z INFO JobDispatcher] Job request 70 for plan db452213-2c72-448a-b844-48574b541fdc job 2514cf62-f000-5c8b-f424-1fac13edf6f3 received.
+[2023-06-05 10:13:38Z INFO JobDispatcher] Pull OrchestrationId db452213-2c72-448a-b844-48574b541fdc.simple_deployment_pipeline.__default from JWT claims
+[2023-06-05 10:13:38Z INFO JobDispatcher] Job request 2514cf62-f000-5c8b-f424-1fac13edf6f3 processed succeed.
+[2023-06-05 10:13:38Z INFO Terminal] WRITE LINE: 2023-06-05 10:13:38Z: Running job: simple_deployment_pipeline
+[2023-06-05 10:13:38Z INFO JobDispatcher] Start renew job request 70 for job 2514cf62-f000-5c8b-f424-1fac13edf6f3.
+[2023-06-05 10:13:39Z INFO JobDispatcher] Successfully renew job request 70, job is valid till 6/5/2023 10:23:39 AM
+[2023-06-05 10:13:39Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:13:39Z INFO ProcessInvokerWrapper] Starting process:
+[2023-06-05 10:13:39Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin\Runner.Worker.exe'
+[2023-06-05 10:13:39Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2268 2520'
+[2023-06-05 10:13:39Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 10:13:39Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-06-05 10:13:39Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-06-05 10:13:39Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-06-05 10:13:39Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-06-05 10:13:39Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-06-05 10:13:39Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-06-05 10:13:39Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-06-05 10:13:39Z INFO ProcessInvokerWrapper] Process started with process id 31988, waiting for process exit.
+[2023-06-05 10:13:39Z INFO JobDispatcher] Send job request message to worker for job 2514cf62-f000-5c8b-f424-1fac13edf6f3.
+[2023-06-05 10:13:39Z INFO ProcessChannel] Sending message of length 43497, with hash 'e1fb7e3d877b51f0b239c5c5886af3ec55e1fe77867c57140072c387f53f26e1'
+[2023-06-05 10:13:39Z INFO JobNotification] Entering JobStarted Notification
+[2023-06-05 10:13:39Z INFO JobNotification] Entering StartMonitor
+[2023-06-05 10:14:39Z INFO JobDispatcher] Successfully renew job request 70, job is valid till 6/5/2023 10:24:39 AM
+[2023-06-05 10:15:07Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-05 10:15:07Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-05 10:15:07Z INFO ProcessInvokerWrapper] Finished process 31988 with exit code 102, and elapsed time 00:01:27.4466637.
+[2023-06-05 10:15:07Z INFO JobDispatcher] Worker finished for job 2514cf62-f000-5c8b-f424-1fac13edf6f3. Code: 102
+[2023-06-05 10:15:07Z INFO JobDispatcher] finish job request for job 2514cf62-f000-5c8b-f424-1fac13edf6f3 with result: Failed
+[2023-06-05 10:15:07Z INFO Terminal] WRITE LINE: 2023-06-05 10:15:07Z: Job simple_deployment_pipeline completed with result: Failed
+[2023-06-05 10:15:07Z INFO JobDispatcher] Stop renew job request for job 2514cf62-f000-5c8b-f424-1fac13edf6f3.
+[2023-06-05 10:15:07Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 70.
+[2023-06-05 10:15:07Z INFO JobNotification] Entering JobCompleted Notification
+[2023-06-05 10:15:07Z INFO JobNotification] Entering EndMonitor
+[2023-06-05 10:15:26Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-06-05 10:15:26Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/d16QqtJqhbCCNwBDGMColJhXx838o1DNb0UJF6s78p2zROHFuM/_apis/distributedtask/pools/1/messages?sessionId=3cdd34c3-a5e6-4053-9daf-3cb8f4670b5f&lastMessageId=3&status=Online&runnerVersion=2.304.0 has been cancelled.
+[2023-06-05 10:15:26Z INFO MessageListener] Get next message has been cancelled.
+[2023-06-05 10:15:26Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2023-06-05 10:15:26Z INFO JobDispatcher] Ensure WorkerDispather for job 2514cf62-f000-5c8b-f424-1fac13edf6f3 run to finish, cancel any running job.
+[2023-06-05 10:15:26Z INFO JobDispatcher] Job request 2514cf62-f000-5c8b-f424-1fac13edf6f3 processed succeed.
