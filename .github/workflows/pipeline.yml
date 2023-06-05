@@ -32,7 +32,7 @@ jobs:
           start: npm run start-prod
           wait-on: http://localhost:5000
       - name: Deploy to production
-        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' && contains(github.event.commits.*.message, '#skip') != true }}
         uses: johnbeynon/render-deploy-action@v0.0.8
         with:
           service-id: ${{ secrets.MY_RENDER_SERVICE_ID }}
@@ -42,10 +42,14 @@ jobs:
     needs: [simple_deployment_pipeline]
     runs-on: ubuntu-20.04
     steps:
-      - name: Bump version and push tag
-        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
-        uses: anothrNick/github-tag-action@1.55.0
+    - name: Bump version and push tag
+      if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' && contains(github.event.commits.*.message, '#skip') != true }}
+      uses: anothrNick/github-tag-action@1.55.0
+      with:
+        working-directory: 'C:/Users/fullm/Documents/Education/Coding/FullstackOpen/GitRepos/full-stack-open-pokedex'
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          WITH_V: false
-          BUMP: patch
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        WITH_V: false
+        BUMP: patch
+
+
