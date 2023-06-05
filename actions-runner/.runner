@@ -1,9 +1,0 @@
-﻿{
-  "agentId": 22,
-  "agentName": "DESKTOP-D10U003",
-  "poolId": 1,
-  "poolName": "Default",
-  "serverUrl": "https://pipelines.actions.githubusercontent.com/d16QqtJqhbCCNwBDGMColJhXx838o1DNb0UJF6s78p2zROHFuM",
-  "gitHubUrl": "https://github.com/LRNZH/full-stack-open-pokedex",
-  "workFolder": "_work"
-}
