@@ -1,0 +1,183 @@
+[2023-06-05 09:54:44Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-06-05 09:54:44Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 09:54:44Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 09:54:44Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials'
+[2023-06-05 09:54:44Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 09:54:44Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 09:54:44Z INFO HostContext] Well known config file 'Runner': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.runner'
+[2023-06-05 09:54:44Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-06-05 09:54:44Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22621.
+[2023-06-05 09:54:44Z INFO Listener] Version: 2.304.0
+[2023-06-05 09:54:44Z INFO Listener] Commit: 9ef4121b5b31ee5c03b7770288213d741081f747
+[2023-06-05 09:54:44Z INFO Listener] Culture: en-US
+[2023-06-05 09:54:44Z INFO Listener] UI Culture: en-US
+[2023-06-05 09:54:44Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 09:54:44Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 09:54:44Z INFO Listener] Validating directory permissions for: 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 09:54:44Z INFO CommandLineParser] Parse
+[2023-06-05 09:54:44Z INFO CommandLineParser] Parsing 5 args
+[2023-06-05 09:54:44Z INFO CommandLineParser] parsing argument
+[2023-06-05 09:54:44Z INFO CommandLineParser] HasArgs: False
+[2023-06-05 09:54:44Z INFO CommandLineParser] Adding Command: configure
+[2023-06-05 09:54:44Z INFO CommandLineParser] parsing argument
+[2023-06-05 09:54:44Z INFO CommandLineParser] HasArgs: True
+[2023-06-05 09:54:44Z INFO CommandLineParser] arg: url
+[2023-06-05 09:54:44Z INFO CommandLineParser] parsing argument
+[2023-06-05 09:54:44Z INFO CommandLineParser] HasArgs: True
+[2023-06-05 09:54:44Z INFO CommandLineParser] Adding option 'url': 'https://github.com/LRNZH/full-stack-open-pokedex'
+[2023-06-05 09:54:44Z INFO CommandLineParser] parsing argument
+[2023-06-05 09:54:44Z INFO CommandLineParser] HasArgs: True
+[2023-06-05 09:54:44Z INFO CommandLineParser] arg: token
+[2023-06-05 09:54:44Z INFO CommandLineParser] parsing argument
+[2023-06-05 09:54:44Z INFO CommandLineParser] HasArgs: True
+[2023-06-05 09:54:44Z INFO CommandLineParser] Adding option 'token': '***'
+[2023-06-05 09:54:44Z INFO Listener] Arguments parsed
+[2023-06-05 09:54:44Z INFO Runner] ExecuteCommand
+[2023-06-05 09:54:44Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin\Runner.Listener.dll
+[2023-06-05 09:54:44Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 09:54:44Z INFO ConfigurationStore] binPath: C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin
+[2023-06-05 09:54:44Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 09:54:44Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 09:54:44Z INFO ConfigurationStore] RootFolder: C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner
+[2023-06-05 09:54:44Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 09:54:44Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 09:54:44Z INFO HostContext] Well known config file 'Runner': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.runner'
+[2023-06-05 09:54:44Z INFO ConfigurationStore] ConfigFilePath: C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.runner
+[2023-06-05 09:54:44Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 09:54:44Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 09:54:44Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials'
+[2023-06-05 09:54:44Z INFO ConfigurationStore] CredFilePath: C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials
+[2023-06-05 09:54:44Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 09:54:44Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 09:54:44Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_migrated'
+[2023-06-05 09:54:44Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_migrated
+[2023-06-05 09:54:44Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 09:54:44Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 09:54:44Z INFO HostContext] Well known config file 'Service': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.service'
+[2023-06-05 09:54:44Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.service
+[2023-06-05 09:54:44Z INFO CommandSettings] Flag 'help': 'False'
+[2023-06-05 09:54:44Z INFO CommandSettings] Flag 'version': 'False'
+[2023-06-05 09:54:44Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-06-05 09:54:44Z INFO CommandSettings] Flag 'check': 'False'
+[2023-06-05 09:54:44Z INFO CommandSettings] Command 'configure': 'True'
+[2023-06-05 09:54:44Z INFO Terminal] WRITE LINE: 
+[2023-06-05 09:54:44Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-06-05 09:54:44Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2023-06-05 09:54:44Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2023-06-05 09:54:44Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2023-06-05 09:54:44Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2023-06-05 09:54:44Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2023-06-05 09:54:44Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-06-05 09:54:44Z INFO Terminal] WRITE: |                       
+[2023-06-05 09:54:44Z INFO Terminal] WRITE: Self-hosted runner registration
+[2023-06-05 09:54:44Z INFO Terminal] WRITE LINE:                         |
+[2023-06-05 09:54:44Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-06-05 09:54:44Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-06-05 09:54:44Z INFO ConfigurationManager] ConfigureAsync
+[2023-06-05 09:54:44Z INFO CommandSettings] Flag 'generateServiceConfig': 'False'
+[2023-06-05 09:54:44Z INFO ConfigurationStore] IsConfigured()
+[2023-06-05 09:54:44Z INFO ConfigurationStore] IsConfigured: False
+[2023-06-05 09:54:44Z INFO ConfigurationManager] Is configured: False
+[2023-06-05 09:54:44Z INFO CommandSettings] Arg 'url': 'https://github.com/LRNZH/full-stack-open-pokedex'
+[2023-06-05 09:54:44Z INFO CommandSettings] Remove url from Arg dictionary.
+[2023-06-05 09:54:44Z INFO CommandSettings] Arg 'token': '***'
+[2023-06-05 09:54:44Z INFO CommandSettings] Remove token from Arg dictionary.
+[2023-06-05 09:54:46Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration' (71FC:EA30:D41AB01:D68F9E6:647DB0E5)
+[2023-06-05 09:54:46Z INFO Terminal] WRITE LINE: Using V2 flow: False
+[2023-06-05 09:54:46Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2023-06-05 09:54:46Z INFO RunnerServer] EstablishVssConnection
+[2023-06-05 09:54:46Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-06-05 09:54:46Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-06-05 09:54:46Z INFO RunnerServer] EstablishVssConnection
+[2023-06-05 09:54:46Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-06-05 09:54:46Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-06-05 09:54:46Z INFO RunnerServer] EstablishVssConnection
+[2023-06-05 09:54:46Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-06-05 09:54:46Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-06-05 09:54:48Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-06-05 09:54:48Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-06-05 09:54:48Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-06-05 09:54:48Z INFO Terminal] WRITE LINE: 
+[2023-06-05 09:54:48Z INFO ConfigurationManager] Test Connection complete.
+[2023-06-05 09:54:48Z INFO HostContext] Well known directory 'Bin': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\bin'
+[2023-06-05 09:54:48Z INFO HostContext] Well known directory 'Root': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner'
+[2023-06-05 09:54:48Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_rsaparams'
+[2023-06-05 09:54:48Z INFO RSAEncryptedFileKeyManager] Creating new RSA key using 2048-bit key length
+[2023-06-05 09:54:48Z INFO RSAEncryptedFileKeyManager] Successfully saved RSA key parameters to file C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_rsaparams
+[2023-06-05 09:54:48Z INFO CommandSettings] Arg 'runnergroup': ''
+[2023-06-05 09:54:48Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-06-05 09:54:48Z INFO PromptManager] ReadValue
+[2023-06-05 09:54:48Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2023-06-05 09:54:48Z INFO Terminal] WRITE: [press Enter for Default] 
+[2023-06-05 09:54:48Z INFO Terminal] READ LINE
+[2023-06-05 09:55:01Z INFO Terminal] Read value: ''
+[2023-06-05 09:55:01Z INFO PromptManager] Falling back to the default: 'Default'
+[2023-06-05 09:55:01Z INFO Terminal] WRITE LINE: 
+[2023-06-05 09:55:01Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2023-06-05 09:55:01Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-06-05 09:55:01Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2023-06-05 09:55:01Z INFO CommandSettings] Arg 'name': ''
+[2023-06-05 09:55:01Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-06-05 09:55:01Z INFO PromptManager] ReadValue
+[2023-06-05 09:55:01Z INFO Terminal] WRITE: Enter the name of runner: 
+[2023-06-05 09:55:01Z INFO Terminal] WRITE: [press Enter for DESKTOP-D10U003] 
+[2023-06-05 09:55:01Z INFO Terminal] READ LINE
+[2023-06-05 09:55:04Z INFO Terminal] Read value: ''
+[2023-06-05 09:55:04Z INFO PromptManager] Falling back to the default: 'DESKTOP-D10U003'
+[2023-06-05 09:55:04Z INFO Terminal] WRITE LINE: 
+[2023-06-05 09:55:04Z INFO CommandSettings] Arg 'labels': ''
+[2023-06-05 09:55:04Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-06-05 09:55:04Z INFO PromptManager] ReadValue
+[2023-06-05 09:55:04Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'Windows', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2023-06-05 09:55:04Z INFO Terminal] WRITE: [press Enter to skip] 
+[2023-06-05 09:55:04Z INFO Terminal] READ LINE
+[2023-06-05 09:55:09Z INFO Terminal] Read value: ''
+[2023-06-05 09:55:09Z INFO Terminal] WRITE LINE: 
+[2023-06-05 09:55:09Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-06-05 09:55:09Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-06-05 09:55:09Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2023-06-05 09:55:09Z INFO ConfigurationStore] Saving OAuth credential @ C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials
+[2023-06-05 09:55:09Z INFO ConfigurationStore] Credentials Saved.
+[2023-06-05 09:55:09Z INFO ConfigurationStore] HasCredentials()
+[2023-06-05 09:55:09Z INFO ConfigurationStore] stored True
+[2023-06-05 09:55:09Z INFO CredentialManager] GetCredentialProvider
+[2023-06-05 09:55:09Z INFO CredentialManager] Creating type OAuth
+[2023-06-05 09:55:09Z INFO CredentialManager] Creating credential type: OAuth
+[2023-06-05 09:55:09Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_rsaparams
+[2023-06-05 09:55:09Z INFO RunnerServer] EstablishVssConnection
+[2023-06-05 09:55:09Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-06-05 09:55:09Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-06-05 09:55:09Z INFO RunnerServer] EstablishVssConnection
+[2023-06-05 09:55:09Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-06-05 09:55:10Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-06-05 09:55:10Z INFO RunnerServer] EstablishVssConnection
+[2023-06-05 09:55:10Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-06-05 09:55:10Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-06-05 09:55:10Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-06-05 09:55:10Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-06-05 09:55:10Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-06-05 09:55:11Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_rsaparams
+[2023-06-05 09:55:11Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\fullm\Documents\Education\Coding\FullstackOpen\GitRepos\full-stack-open-pokedex\actions-runner\.credentials_rsaparams
+[2023-06-05 09:55:12Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-06-05 09:55:12Z INFO CommandSettings] Arg 'work': ''
+[2023-06-05 09:55:12Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-06-05 09:55:12Z INFO PromptManager] ReadValue
+[2023-06-05 09:55:12Z INFO Terminal] WRITE: Enter name of work folder: 
+[2023-06-05 09:55:12Z INFO Terminal] WRITE: [press Enter for _work] 
+[2023-06-05 09:55:12Z INFO Terminal] READ LINE
+[2023-06-05 09:55:16Z INFO Terminal] Read value: ''
+[2023-06-05 09:55:16Z INFO PromptManager] Falling back to the default: '_work'
+[2023-06-05 09:55:16Z INFO ConfigurationStore] Saving runner settings.
+[2023-06-05 09:55:16Z INFO ConfigurationStore] Settings Saved.
+[2023-06-05 09:55:16Z INFO Terminal] WRITE LINE: 
+[2023-06-05 09:55:16Z INFO Terminal] WRITE LINE: 
+[2023-06-05 09:55:16Z INFO CommandSettings] Flag 'runasservice': 'False'
+[2023-06-05 09:55:16Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-06-05 09:55:16Z INFO PromptManager] ReadValue
+[2023-06-05 09:55:16Z INFO Terminal] WRITE: Would you like to run the runner as service? (Y/N) 
+[2023-06-05 09:55:16Z INFO Terminal] WRITE: [press Enter for N] 
+[2023-06-05 09:55:16Z INFO Terminal] READ LINE
+[2023-06-05 09:55:24Z INFO Terminal] Read value: ''
+[2023-06-05 09:55:24Z INFO PromptManager] Falling back to the default: 'N'
+[2023-06-05 09:55:24Z INFO Listener] Runner execution has finished with return code 0
