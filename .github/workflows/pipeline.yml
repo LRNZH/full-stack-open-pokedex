@@ -63,7 +63,6 @@ jobs:
       - name: Bump version and push tag
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' && contains(github.event.commits.*.message, '#skip') != true }}
         run: |
-          cd 'C:/Users/fullm/Documents/Education/Coding/FullstackOpen/GitRepos/full-stack-open-pokedex'
           echo "::set-env name=GITHUB_TOKEN::${{ secrets.GITHUB_TOKEN }}"
           echo "::set-env name=WITH_V::false"
           echo "::set-env name=BUMP::patch"
