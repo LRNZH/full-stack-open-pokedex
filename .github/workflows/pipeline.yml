@@ -57,15 +57,16 @@ jobs:
   tag_release:
     needs: [simple_deployment_pipeline]
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      WITH_V: false
+      BUMP: patch
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
       - name: Bump version and push tag
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' && contains(github.event.commits.*.message, '#skip') != true }}
         run: |
-          echo "::set-env name=GITHUB_TOKEN::${{ secrets.GITHUB_TOKEN }}"
-          echo "::set-env name=WITH_V::false"
-          echo "::set-env name=BUMP::patch"
           npm install anothrNick/github-tag-action@1.55.0
           npx github-tag-action
       - name: Deploy to production
@@ -81,7 +82,7 @@ jobs:
           severity: info
           details: Successfully Deployed!
           webhookUrl: ${{ secrets.DISCORD_WEBHOOK }}
-      - name: Depolyment Failure
+      - name: Deployment Failure
         uses: rjstone/discord-webhook-notify@v1
         if: ${{ github.event_name == 'push' && failure() }}
         with:
